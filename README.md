@@ -1,0 +1,9 @@
+A ReaxFF force field file, CHONSSiCaCsKSrNaMgAlCuFeCl.ff, has been tailored for reactive molecular simulations under complex conditions, such as screening organic corrosion inhibitors for black rebars and modeling the hydration of various cement clinker minerals. This force field was derived from the existing FeOCHCl.ff and CHONSSiCaCsKSrNaMgAlCu.ff force fields provided in the official ReaxFF distribution (https://www.scm.com/doc/ReaxFF/Included\_Forcefields.html) .
+
+
+
+It has been preliminarily tested on a set of simple systems, including pure metals, cement minerals, water, and several organic molecules. Its applicability limits, however, still require more extensive validation. Further validation on more challenging systems is welcome, and any feedback and corrections would be greatly appreciated.
+
+
+
+Recommended usage in LAMMPS::
