@@ -11,6 +11,7 @@ Recommended usage in LAMMPS:
 1. Modern Version
 
 pair_style reaxff control.params
+
 pair_coeff * * CHONSSiCaCsKSrNaMgAlCuFeCl.ff X X X  # Replace X with your actual element names
 
 
@@ -22,6 +23,7 @@ fix qeq all qeq/reaxff 1 0.0 10.0 1e-6
 2. Legacy Version
 
 pair_style reax/c control.params
+
 pair_coeff * * CHONSSiCaCsKSrNaMgAlCuFeCl.ff X X X  # Replace X with your actual elements
 
 
