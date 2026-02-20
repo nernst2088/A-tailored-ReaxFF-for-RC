@@ -2,7 +2,7 @@ A ReaxFF force field file, CHONSSiCaCsKSrNaMgAlCuFeCl.ff, has been tailored for 
 
 
 
-It has been preliminarily tested on a set of simple systems, including pure metals, cement minerals, water, and several organic molecules. Its applicability limits, however, still require more extensive validation. Further validation on more challenging systems is welcome, and any feedback and corrections would be greatly appreciated.
+It has been preliminarily tested on a set of simple systems, including pure metals, cement minerals, water, and several organic molecules. Its applicability limits, however, still require more extensive validation. Further validation on more challenging systems is welcome, and any feedback and correction would be greatly appreciated.
 
 
 
