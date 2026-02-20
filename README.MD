@@ -10,6 +10,7 @@ Recommended usage in LAMMPS::
 
 1. Modern Version
 
+
 pair\_style reaxff control.params
 pair\_coeff \* \* CHONSSiCaCsKSrNaMgAlCuFeCl.ff X X X  # Replace X with your actual element names
 
@@ -27,4 +28,5 @@ pair\_coeff \* \* CHONSSiCaCsKSrNaMgAlCuFeCl.ff X X X  # Replace X with your act
 
 
 fix qeq all qeq/reax 1 0.0 10.0 1e-6 reax/c
+
 
